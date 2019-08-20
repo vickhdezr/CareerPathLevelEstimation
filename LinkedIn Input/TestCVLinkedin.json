@@ -1,0 +1,1061 @@
+{
+  "Resume": [
+    {
+      "name": "Anonymous T01",
+      "job": "Sr. Project Manager",
+      "location": "Orlando, Florida Area",
+      "summary": "Sr. Project Manager with a proven track record of successful projects specializing in the areas of Banking System implementations, BI management consulting and BI report development.\\nEnergetic and enthusiastic consultant well versed in high profile strategic project management and technical implementations. Responsible for the management of large scale banking system implementations, reporting projects and/or the development of reporting architecture and implementation strategies. \\nExtensive application development using a variety of Oracle Hyperion reporting tools. Over twenty years of banking and information systems experience. Skilled at learning new concepts quickly, working well under pressure, and communicating ideas clearly and effectively.\\nSpecialties: Project Management, BI Reporting architecture and development, IT/Technical management, Customer relations, Sales and marketing presentations, International/Domestic banking applications and implementations, Oracle/Hyperion (Brio) Interactive Reporting (IR), Dashboards, Web Analysis(WA), Production Reporting(SQR), Financial Reporting(FR), Smart View, Oracle Business Intelligence (OBIEE) Answers, Internet/Intranet Development, Working Knowledge of Essbase (OLAP) and Relational Database platforms",
+      "experience": [
+        {
+          "e_job": "Sr. Project Manager",
+          "e_company": "D+H",
+          "e_date_start": "Sep 2013",
+          "e_date_end": "Present",
+          "e_location": "Lake Mary, FL",
+          "e_activities": "Responsible for overall coordination, status reporting, financial reporting, and stability of complex and cross functional project oriented work efforts. Responsibilities include managing multiple projects and/or integrated projects simultaneously. Establishes and implements industry best practice project management processes and methodologies to ensure projects are delivered on time, within budget, adhere to high quality standards and meet or exceed the needs of clients. Negotiates and communicates changes regarding the scope, budget or schedule of the project; acts as the final decision-maker during all stages of the project life-cycle."
+        },
+        {
+          "e_job": "Project Manager / Sr Consultant",
+          "e_company": "AdAstra Technologies, Inc.",
+          "e_date_start": "Apr 2009",
+          "e_date_end": "Sep 2013",
+          "e_location": "Longwood, FL",
+          "e_activities": "Provide Project Management services in the areas of AML (Anti-Money Laundering), Banking System Implementation and Conversion primarily for users of the Fiserv Signature (CBS) banking system. \\nProvide management consulting on implementing BI and developing best practices with regard to business intelligence. \\nDevelopment of reporting applications using a variety of Oracle Hyperion (Brio) tools including Interactive Reporting (IR), Web Analysis(WA), Financial Reporting (HFR), and Production Reporting for clients in the finance industry, public sector, defense industry, and manufacturing."
+        },
+        {
+          "e_job": "Project Manager",
+          "e_company": "BankUnited",
+          "e_date_start": "Jan 2012",
+          "e_date_end": "May 2013",
+          "e_location": "Miami/Fort Lauderdale Area",
+          "e_activities": "Project Manager \u2013 core conversion. Responsible for the project management of a bank acquisition and the integration of the acquired banks accounts to the Fiserv Signature system. Responsibilities include: Bank Common file integration, data conversion, Fiserv Signature core deposits, Fiserv Signature core loans, statements and product regionalization.\\nProject Manager for Lawson company consolidation.\\nProject Manager for the integration of Promontory Interfinancial Network CDARS-ICS products allowing the bank to expand their product offerings to high net worth customers."
+        },
+        {
+          "e_job": "Contract Hyperion Financial Report (HFR) development",
+          "e_company": "Contract",
+          "e_date_start": "Nov 2011",
+          "e_date_end": "Jan 2012",
+          "e_location": "Houston TX",
+          "e_activities": "Assist large manaufacturing company with the development and creation of Hyperion Financial Reports."
+        },
+        {
+          "e_job": "Contract Project Manager - Anti Money Laundering (AML)",
+          "e_company": "BankUnited",
+          "e_date_start": "Aug 2010",
+          "e_date_end": "Sep 2011",
+          "e_location": "",
+          "e_activities": "Managed the implementation of NICE-Actimize Anti-Money Laundering AML system that was delivered on time and on budget. Actimize Anti-Money Laundering (AML) solutions automate, streamline, and drive down the costs of their enterprise AML compliance system."
+        },
+        {
+          "e_job": "Sr. Principal Consultant, BI Consulting",
+          "e_company": "Oracle",
+          "e_date_start": "Aug 2006",
+          "e_date_end": "Apr 2009",
+          "e_location": "",
+          "e_activities": "Developed reporting applications using a variety of Oracle Hyperion (Brio) tools including Interactive Reporting, Web Analysis, Financial Reporting, and Production Reporting for clients in the finance industry, public sector, defense industry, and manufacturing. Reports were created against various database sources such as Essbase OLAP and Oracle 10g data sources. Developed dashboards and portals using IR Dashboard Development tools and JavaScript."
+        },
+        {
+          "e_job": "Principal Consultant",
+          "e_company": "AdAstra Technologies, Inc.",
+          "e_date_start": "Oct 2003",
+          "e_date_end": "Aug 2006",
+          "e_location": "",
+          "e_activities": "Provided consulting services to financial institutions and banking software vendors in the areas of conversion/de-conversion and data warehouse reporting. Implemented Hyperion Performance Suite for a data warehouse product developed by a major banking software vendor for use by both domestic and international banks and financial institutions. Developed all dashboards and reports released as part of the data warehouse application above and provided technical consultation to internal staff on Hyperion Performance suite client and server applications. Conducted training classes on HPS client and server installations and operations. Provided technical sales consultation for current and potential clients on Hyperion Performance Suite."
+        },
+        {
+          "e_job": "Infrastructure Architecture Manager",
+          "e_company": "Fiserv",
+          "e_date_start": "May 2000",
+          "e_date_end": "Oct 2003",
+          "e_location": "",
+          "e_activities": "Headed up a group created to improve the quality and timeliness of information throughout the company. Implemented an Intranet \u201cportal\u201d that provided employees with up to date information on everything from people\u2019s phone numbers to maps of where people actually sat within the building. Directed the research, selection and implementation of knowledge management tools, such as document management, implementing Lotus Domino.doc. Served as liaison between the operations group and the other functional departments to effectively implement knowledge management, Internet and Intranet initiatives. Directed development staff in the day to day development and enhancements requested by other departments using Lotus Notes/Domino and Internet/Intranet development tools and platforms."
+        },
+        {
+          "e_job": "Principal Consultant",
+          "e_company": "AdAstra Technologies, Inc.",
+          "e_date_start": "Sep 1996",
+          "e_date_end": "May 2000",
+          "e_location": "",
+          "e_activities": "Founded and managed an Internet solutions company. Grew the business so that at one point it employed a staff of 10 full time or part time people and had a customer base of 60-70 customers."
+        },
+        {
+          "e_job": "Sr. Vice President",
+          "e_company": "FiTech PLUSmark",
+          "e_date_start": "Aug 1995",
+          "e_date_end": "Sep 1996",
+          "e_location": "",
+          "e_activities": "Served as Sr. VP in charge of Internet and Intranet Applications, Responsibilities included management of the development and implementation of internet sites for all FiTech customers. Other duties were conducting sales presentations and sales support and the development of project plans, customer start-up plans, internet site design, coding and implementations."
+        },
+        {
+          "e_job": "Manager, Orlando Operations",
+          "e_company": "Fiserv CBS Division",
+          "e_date_start": "Mar 1995",
+          "e_date_end": "Aug 1995",
+          "e_location": "",
+          "e_activities": "Managed Orlando based computer operations. Systems included four AS/400 models, and six LAN servers running on Novell 4.1, Windows NT, and internet applications. These systems directly supported between 250 - 300 users (7X24 support). Managed all support personnel including support technicians, computer operations, help desk, and security personnel."
+        },
+        {
+          "e_job": "Various Positions",
+          "e_company": "Fiserv CBS Division",
+          "e_date_start": "1986",
+          "e_date_end": "1994",
+          "e_location": "",
+          "e_activities": "Various positions within the company included:\\nSecurity/Systems Manager 1993 \u2013 1994 \\nTransaction Delivery Manager\t1991 \u2013 1993 \\nSr. Installations Manager - CIR UK/Europe 1990 \u2013 1991 \\nProject Manager \u2013 POD,\t1989 \u2013 1990 \\nSr. Installations Specialist 1986 \u2013 1989 \\nImplemented in excess of 75 installations in 7 years.\\nKey member of Fiserv corporate internet group to determine corporate internet policies, procedures, connectivity, and implementation strategies."
+        },
+        {
+          "e_job": "Conversion Specialist",
+          "e_company": "Kirchman Corporation",
+          "e_date_start": "1985",
+          "e_date_end": "1986",
+          "e_location": "",
+          "e_activities": "Provided direct support for an in-house banking system. Acted as liaison between client bank and programmer/analysts to assist in pre-conversion testing and the actual conversion process. Provided training in the operation of the OMNI software system and the IBM System 34/36 and IBM 1255 and 3694 reader sorters. Assisted in the development of 3694 item capture software and defining enhancements to improve marketability of the system."
+        }
+      ],
+      "education": [
+        {
+          "school_name ": "University of Pennsylvania",
+          "degree_name": "",
+          "field_study": "Computer Science",
+          "s_grad_start": " 1979",
+          "s_grad_end:": "1982"
+        }
+      ],
+      "skills_endorsment": [
+        {
+          "skill_name": "Business Intelligence",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Data Warehousing",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Integration",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Business Analysis",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "SDLC",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Software Development",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Banking",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Project Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Vendor Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Requirements Analysis",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Resource Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Requirements Gathering",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Software Project Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Core Banking",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Security",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Financial Reporting",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Enterprise Architecture",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Architecture",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Data Integration",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "IT Strategy",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Program Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "PMO",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Business Process",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "ETL",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Customer Relations",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Web Analytics",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "IT Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Business Requirements",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Project Portfolio Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "PMP",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Solution Architecture",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Software Development Life Cycle (SDLC)",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Systems Analysis",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Agile Methodologies",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Oracle",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Databases",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Enterprise Software",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Visio",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "SharePoint",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Relational Databases",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Hyperion Enterprise",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Hyperion",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "SQL",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Management",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Customer Service",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "",
+          "skill_category": "Other Skills"
+        },
+        {
+          "skill_name": "Business Intelligence Tools",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Dashboard",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "OBIEE",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "OLAP",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Application Development",
+          "skill_category": "Skill and endorsements"
+        }
+      ],
+      "refer_page": "https://www.linkedin.com/in/brucejachens/"
+    },
+	    {
+      "skills_endorsment": [
+        {
+          "skill_category": "Skill and endorsements",
+          "skill_name": "Microsoft SQL Server"
+        },
+        {
+          "skill_category": "Skill and endorsements",
+          "skill_name": ".NET"
+        },
+        {
+          "skill_category": "Skill and endorsements",
+          "skill_name": "XML"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "Scrum"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "SOA"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "Web Services"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "Web Applications"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "Design Patterns"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "SQL"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "C#"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "ASP.NET"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "WCF"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "WPF"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "JavaScript"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Oracle"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "SQL Server"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": ".NET Framework"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": ".NET framework"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Visual Studio"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "AngularJS"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Windows"
+        },
+        {
+          "skill_category": "Interpersonal Skills",
+          "skill_name": "Team Leadership"
+        },
+        {
+          "skill_category": "Interpersonal Skills",
+          "skill_name": "Coaching"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Silverlight"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Design Patterns"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Web Applications"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Agile Methodologies"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Web Services"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Team leadership"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Back-End"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Enterprise strategy"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Leadership"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Accountant"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Personal Economy"
+        }
+      ],
+      "job": "Developer Sr",
+      "refer_page": "https://www.linkedin.com/in/chemartine/",
+      "experience": [
+        {
+          "e_company": "SVAM International",
+          "e_activities": "playing with Azure Service Fabric, Service Bus, Message Queuing, Azure Functions, Akka .net Angular 4 , SSRS, and finally xamarin",
+          "e_location": "Greater Chicago Area",
+          "e_date_end": "Present",
+          "e_job": "Technical Lead",
+          "e_date_start": "Mar 2018"
+        },
+        {
+          "e_company": "Tata Consultancy Services",
+          "e_activities": ".Net Core, WebApi, Angular 4, Angular Material, Azure, VSTS, Git, Cloud Computing, SiteCore",
+          "e_location": "Greater Chicago Area",
+          "e_date_end": "Present",
+          "e_job": "SR UX Mobile Developer Angular 4",
+          "e_date_start": "Jan 2017"
+        },
+        {
+          "e_company": "United Airlines",
+          "e_activities": "I am working with the team of Mobile solutions, giving the support to Web API (restful services) and Also working with new technologies, such as NServiceBus, Akka, Kafka, MongoDB, CouchBase, AngularJS, Kendo, and Microservices.",
+          "e_location": "Houston, Texas Area",
+          "e_date_end": "Present",
+          "e_job": "SR Mobile Application Developer",
+          "e_date_start": "Mar 2016"
+        },
+        {
+          "e_company": "TransCanada",
+          "e_activities": "Team lead, working among the team of Mexico, Canada, and the USA, and also giving the support to several application such as MVC, Silverlight , third party software and gathering information with vendors.",
+          "e_location": "Houston, Texas Area",
+          "e_date_end": "Feb 2016",
+          "e_job": "Sr Application Developer",
+          "e_date_start": "Oct 2015"
+        },
+        {
+          "e_company": "SVAM International",
+          "e_activities": "Deloitte with DEO (Department of business opportunities) in this place I had the chance to work with a system of insurance unemployment.  TransCanada Corporation, I was working as part of the IS Tools & Integration US team.",
+          "e_location": "New York, Estados Unidos",
+          "e_date_end": "Sep 2015",
+          "e_job": "Sr Application Developer",
+          "e_date_start": "Oct 2013"
+        },
+        {
+          "e_company": "Hildebrando",
+          "e_activities": "",
+          "e_location": "Guadalajara Area, Mexico",
+          "e_date_end": "Feb 2013",
+          "e_job": "Team leader & Developer Sr",
+          "e_date_start": "Feb 2011"
+        },
+        {
+          "e_company": "UANL",
+          "e_activities": "Project Name: PLATAFORMA M\u00c3\u02c6XICO\nProject Plataforma M\u00c3\u00a8xico (Secretar\u00c3\u00aca de Seguridad P\u00c3\u00b9blica)\nImplementing an architecture based on WPF and WCF in all systems of the secretary. We use the best development practices, and followed a well-defined development methodology, the objective in the short term to implement a rapid and effective arquitecture \n08/2008\u00e2\u20ac\u201c 08/2009 FERIAS DE EMPLEO\nProject:www.empleo.gob.mx (Secretar\u00c3\u00aca del Trabajo y Previsi\u00c3\u00b2n social)\nThe first was a web application that had the goal the registry of applicants and companies that participated in a use fair, exist different rolls from administration which allow us to validate these companies, and users. the users and the companies generate a report of registry with a code of bars.\nthis use framework 2.0, a model in 3 layers, I use a sessions, manage of cache, SQL Server 2005, with stored procedures, triggers, and reporting services.\nThe second was a web application that allows us to sail in the different virtual fairs and to consult the vacancies.\nThis use framework 2.0, a model in 3 layers, enterprise libraries, http modules for the layer presentation in flex\nThe third was a offline application with adobe air and SQL Lite, .where the users or administrators can feed on local way the registries of attendance of users the fairs and later to synchronize the local data to the server",
+          "e_location": "Monterrey Area, Mexico",
+          "e_date_end": "Oct 2010",
+          "e_job": "Architect of Software and Developer Sr",
+          "e_date_start": "Oct 2008"
+        },
+        {
+          "e_company": "TV Azteca",
+          "e_activities": "Project Name: PROYECTO40.COM.MX , REVISTAVERTIGO.COM.MX, PORTALINTELIGENTE.COM.MX, QUELEO.COM.MX, EDITORIAL AZTECA.\n08/2007 \u00e2\u20ac\u201c 08/2008\nProject: PROYECTO40\nWeb development in C#, Zend framework use MVC model, Flex and\ndevelop with AC3.\nA web application that transferred file videos between different locals\nin M\u00c3\u00a9xico city this web applications used a bit torrent technology.\nIn this applications I used ORACLE 10i SQL server 2005 and MySQL, I\nuse too a telerik , dundas and other tools for my agile develop.",
+          "e_location": "Perif\u00c3\u00a8rico Sur Mexico Df",
+          "e_date_end": "Oct 2008",
+          "e_job": "Team leader",
+          "e_date_start": "Sep 2007"
+        }
+      ],
+      "education": [
+        {
+          "field_study": "Management in Information Technology",
+          "school_name ": "Universidad del Valle de M\u00e9xico",
+          "degree_name": "Masters",
+          "s_grad_end:": "2003",
+          "s_grad_start": "2001"
+        },
+        {
+          "field_study": "Computer Systems Engineering",
+          "school_name ": "Universidad del Valle de M\u00e9xico",
+          "degree_name": "BS",
+          "s_grad_end:": "1999",
+          "s_grad_start": "1995"
+        },
+        {
+          "field_study": "Electric Systems",
+          "school_name ": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+          "degree_name": "BS",
+          "s_grad_end:": "1999",
+          "s_grad_start": "1994"
+        }
+      ],
+      "name": "Anonymous T02",
+      "location": "Lincolnshire, Illinois",
+      "summary": "Cesar is a Sr.Net professional with 10 years of experience , He has developing web applications and desktop application using Microsoft technologies He has working in the full Software Development Life Cycle including Requirements Analysis, High Level Design, Detailed Design, Build, Testing, Security, Acceptance and Installation, Maintenance and Production Support carried out several .Net roles as a technical leader, lead developer and technical consultant in the TI, Government, financial, Entertainment and media sectors. As a .NET Technical Lead/Architect he also has experience on each activity of the SDLC such as requirements gathering and analysis with uses cases and user stories, OO analysis and design using severalUML diagrams, OO developing with design patterns (such as Singleton, Abstract Factory and Factory Method, Dependency Injection,Memento, MVC,MVVM), functional testing with Mercury Quality Center 9.0, Test Manager, QT Pro, unit testingand Continuous Delivery using TFS 2012 , 2010 and N-UNIT. He also has experience working and incorporating best practices and agile methodologies such as SCRUM, rup and cmmi."
+    },
+	{
+      "skills_endorsment": [
+        {
+          "skill_category": "Skill and endorsements",
+          "skill_name": "Android"
+        },
+        {
+          "skill_category": "Skill and endorsements",
+          "skill_name": "Java"
+        },
+        {
+          "skill_category": "Skill and endorsements",
+          "skill_name": "kotlin"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "Entrepreneurship"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "Polymer"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "web development"
+        },
+        {
+          "skill_category": "Industry Knowledge",
+          "skill_name": "Programming"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "iOS"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Git"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "JavaScript"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "jQuery"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "REST"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "MySQL"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Python"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "HTML 5"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Linux"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "CSS"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Swift"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "XML"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "JSP"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "PHP"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Oracle"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "SQL"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "Databases"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "HTML5"
+        },
+        {
+          "skill_category": "Tools and Technologies",
+          "skill_name": "JavaServer Pages"
+        },
+        {
+          "skill_category": "Interpersonal Skills",
+          "skill_name": ""
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Go"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Google App Engine"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Google API"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Committed"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Web Development"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Programming"
+        },
+        {
+          "skill_category": "Other Skills",
+          "skill_name": "Data bases"
+        }
+      ],
+      "job": "Android Engineer",
+      "refer_page": "https://www.linkedin.com/in/guillermo-romero-a433a047/",
+      "experience": [
+        {
+          "e_company": "Hulu",
+          "e_activities": "",
+          "e_location": "Seattle",
+          "e_date_end": "Present",
+          "e_job": "Android Engineer",
+          "e_date_start": "Feb 2018"
+        },
+        {
+          "e_company": "Hulu",
+          "e_activities": "Work closely with UX designers, product managers, and engineering leadership to create best-of-class, delightful TV-watching experiences. \\nDemonstrate engineering excellence by developing test infrastructures, writing documentation, ensuring high performance, and following an agile development methodology.",
+          "e_location": "Seattle",
+          "e_date_end": "Feb 2018",
+          "e_job": "Android mobile engineer consultant (through Globant)",
+          "e_date_start": "Mar 2016"
+        },
+        {
+          "e_company": "Globant",
+          "e_activities": "Make mobile applications for Android Platform by using design patterns, UI guidelines and work with software engineers, software architects engineers, designers",
+          "e_location": "",
+          "e_date_end": "Jan 2018",
+          "e_job": "Android developer",
+          "e_date_start": "Oct 2015"
+        },
+        {
+          "e_company": "Globant",
+          "e_activities": "Develop Software able to process high volumes of data and huge demand. Propose and build innovative ways in which the new technologies could help companies to increase their profit.",
+          "e_location": "Mexico City Area, Mexico",
+          "e_date_end": "Oct 2015",
+          "e_job": "Java Developer",
+          "e_date_start": "Jan 2015"
+        },
+        {
+          "e_company": "Banco de M\u00e9xico",
+          "e_activities": "Developed web applications & planned solutions, solutions to improve the efficiency of the Central Bank Operations in many ways. \\nSuch web based applications and mobile apps as well.",
+          "e_location": "Mexico City Area, Mexico",
+          "e_date_end": "Jan 2015",
+          "e_job": "System Analyst",
+          "e_date_start": "Sep 2013"
+        },
+        {
+          "e_company": "Crash development",
+          "e_activities": "Invent, create and managing all the resources to create a development company.",
+          "e_location": "",
+          "e_date_end": "Sep 2013",
+          "e_job": "Co-Founder",
+          "e_date_start": "Dec 2012"
+        },
+        {
+          "e_company": "DGSCA UNAM",
+          "e_activities": "I was part of a Development group with the goal to programming of didactic structures for UNAM's Schools, such simulators, quizzes, games etc. all implemented in HTML5 with some javascript Frameworks. ",
+          "e_location": "",
+          "e_date_end": "Aug 2013",
+          "e_job": "Web developer",
+          "e_date_start": "Aug 2012"
+        }
+      ],
+      "education": [
+        {
+          "field_study": "mobile development",
+          "school_name ": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+          "degree_name": "Mobile Apps Specialization",
+          "s_grad_end:": "2014",
+          "s_grad_start": "2014"
+        },
+        {
+          "field_study": "Software Engineering",
+          "school_name ": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+          "degree_name": "Computing Engineering ",
+          "s_grad_end:": "2014",
+          "s_grad_start": "2010"
+        }
+      ],
+      "name": "Anonymous T03",
+      "location": "Seattle, Washington",
+      "summary": "Develop Software able to process high volumes of data and huge demand. Propose and build innovative ways in which the new technologies could help companies to increase their profit."
+    },
+	{
+      "name": "Anonymous T04",
+      "job": "Web Developer/Lead Campaign Specialist",
+      "location": "Greater Chicago Area",
+      "summary": "I am a driven professional with over ten years of experience and I am proficient in data management, web development, digital marketing, and content management. I am known for my excellent interpersonal skills and my ability to multitask and meet deadlines. \\nWEB DEVELOPMENT \\nHTML, CSS, JavaScript, PHP\\nCONTENT MANAGEMENT \\nWordpress, Joomla, Convio, Omni Update\\nESPs\\nConvio, SalsaLabs, Responsys, Blackbaud\\nANALYTICS \\nSEO, Web Analytics, Target Analytics, Research Point, NOZA\\nDATABASE ADMINISTRATION\\nSQL, Server Enterprise Manager, Blackbaud Management Console, Raiser\u2019s Edge, Convio, iMIS, IBM AS 400, Paradox, Microsoft Access \\nSOFTWARE APPLICATIONS \\nAdobe Dreamweaver, Photoshop, SEO Powersuite, Crystal Reports",
+      "experience": [
+        {
+          "e_job": "Web Developer II / IMX Division",
+          "e_company": "Sears Holdings Corporation",
+          "e_date_start": "Oct 2013",
+          "e_date_end": "Present",
+          "e_location": "greater chicago area",
+          "e_activities": "LEAD CAMPAIGN SPECIALIST - TRIGGERS\\nAt IMX I work together with an innovative integrated retail team that delivers strategic digital concepts and technology to drive a rich member experience for our customers. I'm involved in the development, testing & the deployment stage of the email campaign process. I build push campaigns for the Kmart and Sears brands. I also provide troubleshooting insight and direction to team members\\nTARGETED EMAIL\\nI build complex targeted HTML email campaigns for the Sears and Kmart brands. Projects involve hand coding HTML/CSS/SQL, data filtering, writing conditional statements for dynamic deployment, pre-flighting, format CSS for proper mobile rendering, cross device and browser testing."
+        },
+        {
+          "e_job": "Database Consultant (Client)",
+          "e_company": "Voices for Illinois Children",
+          "e_date_start": "Nov 2013",
+          "e_date_end": "Jan 2017",
+          "e_location": "",
+          "e_activities": "Contract out technology services for the non-profit sector including Raiser's Edge/Convio database management, development services, and email marketing on the Salsa Labs ESP.\\nDATABASE MIGRATION\\nOversaw, planned and implemented complete migration project from Convio CRM to SalsaLabs platform."
+        },
+        {
+          "e_job": "Database Adminstrator/Development Associate",
+          "e_company": "Voices for Illinois Children",
+          "e_date_start": "Aug 2011",
+          "e_date_end": "Oct 2013",
+          "e_location": "Chicago IL",
+          "e_activities": "EMAIL CAMPAIGN MANAGEMENT \\nDesigned email templates, HTML/CSS hand coding involved, optimized existing creatives, preflight testing, browser testing, multivariate testing, data monitoring, scheduling, analytics, and reporting. Performed web page updates, assisted web team in correcting coding issues. Managed list segmentation, opt-outs and bad address processing.\\nINFORMATION MANAGEMENT\\nMaintained Raiser\u2019s Edge database, security protocols, NCOA updates, updatied policies and procedures for gift processing and prospect clearing. Assisted off-site IT staff with network backups, technical maintenance and client troubleshooting, was responsible for gift processing, donor acknowledgement and reporting.\\nDEVELOPMENT/FUNDRAISING\\nUtilized ResearchPoint, NOZA and Raiser's Edge to research and identify major gift prospects and develop solicitation strategies. Ran highly complex queries, exports and reports, and acquisition list procurement."
+        },
+        {
+          "e_job": "SEO/Website Marketing Consultant (Client)",
+          "e_company": "CAE Services, Inc.",
+          "e_date_start": "Mar 2011",
+          "e_date_end": "Dec 2011",
+          "e_location": "Batavia, IL",
+          "e_activities": "ORGANIC SEO STRATEGIES\\nImplemented strategies to improve website visibility that met conversion objectives. Established KPI and metric parameters for reporting. Monitored and maintained search engine placement. Provided monthly competitive keyword analysis and report updates. Provided source code updating, directory listing research and linking strategies. Recommendations for strategic and viable content and design updates provided to client. Responsible for web maintenance involving content, social networking and blogging updates. Created documentation for client's future SEO and interactive marketing practices. "
+        },
+        {
+          "e_job": "Web Support Specialist, iMarketing (Client)",
+          "e_company": "University of Chicago Booth School of Business-Creative Circle Contract",
+          "e_date_start": "Aug 2010",
+          "e_date_end": "Jan 2011",
+          "e_location": "Chicago",
+          "e_activities": "WEB HELP SUPPORT DESK MANAGER\\nAs manager of the troubleshooting division I was responsible for help desk intake and assisting a team of web developers in solving Chicagobooth.edu webpage issues, testing pages, correcting coding issues, page updates. Troubleshooting email campaigns, managing data, supplying queries and reports. Managed and fixed Omni-Update content management system issues. Oversaw Convio data imports/exports. Wrote best practices for content management system users, webhelp support desk protocol and email campaign best practices. "
+        },
+        {
+          "e_job": "Manager of Information Services (Client)",
+          "e_company": "National Restaurant Association - Careers In Non-Profit Contract",
+          "e_date_start": "Mar 2010",
+          "e_date_end": "Aug 2010",
+          "e_location": "Chicago, IL",
+          "e_activities": "DATABASE MIGRATION\\nAs part of the conversion committee provided input involving Raiser\u2019s Edge Fundraising database Platform migration to the iMIS Engagement Management System.\\nINFORMATION MANAGEMENT\\nResponsible for managing all database maintenance functions to assure optimal coding, integrity and successful audits.\\nDEVELOPMENT/FUNDRAISING\\nGenerate income/statistical and performance reports and monthly reconciliation with Accounting Department. Responsible for gift processing, donor acknowledgement and reporting. "
+        }
+      ],
+      "education": [
+        {
+          "school_name ": "The Art Institutes",
+          "degree_name": "Associates of Science",
+          "field_study": "",
+          "s_grad_start": "",
+          "s_grad_end:": ""
+        }
+      ],
+      "skills_endorsment": [
+        {
+          "skill_name": "Email Marketing",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Online Marketing",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Blogging",
+          "skill_category": "Skill and endorsements"
+        },
+        {
+          "skill_name": "Marketing",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Social Media Marketing",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Web Analytics",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Event Planning",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Strategic Planning",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Social Media",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "SEO",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Interactive Marketing",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Nonprofits",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Web Design",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Web Development",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Strategy",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Digital Marketing",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Public Relations",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Entrepreneurship",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Budgets",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Event Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Marketing Communications",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Online Advertising",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Content Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Marketing Strategy",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Sales",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Analysis",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Brand Development",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Program Management",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Advertising",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Editing",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "Research",
+          "skill_category": "Industry Knowledge"
+        },
+        {
+          "skill_name": "",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "WordPress",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "HTML",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Dreamweaver",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Facebook",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Photoshop",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "CMS",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "Google Adwords",
+          "skill_category": "Tools and Technologies"
+        },
+        {
+          "skill_name": "",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Public Speaking",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Management",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Fundraising",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Customer Service",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Leadership",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Training",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "Team Building",
+          "skill_category": "Interpersonal Skills"
+        },
+        {
+          "skill_name": "",
+          "skill_category": "Other Skills"
+        },
+        {
+          "skill_name": "Social Networking",
+          "skill_category": "Other Skills"
+        },
+        {
+          "skill_name": "Website Development",
+          "skill_category": "Other Skills"
+        },
+        {
+          "skill_name": "Web Development/Design",
+          "skill_category": "Other Skills"
+        },
+        {
+          "skill_name": "Music Management/Promotion",
+          "skill_category": "Other Skills"
+        }
+      ],
+      "refer_page": "https://www.linkedin.com/in/melenealcameron/"
+    }	
+	]
+}
