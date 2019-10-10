@@ -1,0 +1,25 @@
+,Cluster Label,Cluster freq.,Skill,Skill freq,Category
+0,1,15,management,15,must
+1,7,13,strategy,15,must
+2,5,10,business analysis,10,avg
+3,6,9,vendor management,9,avg
+4,9,9,business process improvement,7,avg
+5,2,8,program management,8,avg
+6,12,8,risk management,8,avg
+7,26,8,leadership,8,avg
+8,11,7,strategic planning,7,avg
+9,15,7,requirements analysis,6,avg
+10,17,7,integration,7,avg
+11,16,6,change management,6,avg
+12,18,6,banking,4,avg
+13,0,5,sdlc,5,plus
+14,4,5,pmo,5,plus
+15,28,5,product management,5,plus
+16,42,5,team management,5,plus
+17,66,5,team leadership,5,plus
+18,13,4,business intelligence,4,plus
+19,27,4,software development life cycle sdlc,4,plus
+20,31,4,data analysis,4,plus
+21,38,4,outsourcing,6,plus
+22,55,4,cross-functional team leadership,4,plus
+23,60,4,financial services,4,plus

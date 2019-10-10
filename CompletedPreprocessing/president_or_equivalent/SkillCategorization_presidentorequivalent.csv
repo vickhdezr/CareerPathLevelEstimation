@@ -1,0 +1,60 @@
+,Cluster Label,Cluster freq.,Skill,Skill freq,Category
+0,4,5,management,3,must
+1,0,4,sdlc,4,must
+2,8,4,requirements analysis,4,must
+3,18,4,sql,4,must
+4,21,4,technical recruiting,4,must
+5,12,3,consulting,3,must
+6,14,3,business intelligence,3,must
+7,17,3,oracle,3,must
+8,19,3,unix,3,must
+9,33,3,recruiting,3,must
+10,42,3,java,3,must
+11,43,3,training,3,must
+12,2,2,integration,2,avg
+13,3,2,program management,2,avg
+14,5,2,business analysis,2,avg
+15,6,2,agile methodologies,2,avg
+16,7,2,quality assurance,2,avg
+17,9,2,testing,2,avg
+18,10,2,software development,2,avg
+19,11,2,vendor management,2,avg
+20,13,2,information technology,2,avg
+21,15,2,customer relationship management crm,2,avg
+22,16,2,strategy,2,avg
+23,20,2,leadership,2,avg
+24,22,2,business objects,2,avg
+25,23,2,data warehousing,2,avg
+26,24,2,etl,2,avg
+27,25,2,data modeling,2,avg
+28,26,2,staffing,2,avg
+29,27,2,campus recruiting,2,avg
+30,28,2,contract recruitment,2,avg
+31,29,2,solutions,2,avg
+32,30,2,staffing services,2,avg
+33,31,2,temporary staffing,2,avg
+34,32,2,student recruiting,2,avg
+35,34,2,college recruiting,2,avg
+36,35,2,recruitment advertising,2,avg
+37,36,2,job descriptions,2,avg
+38,37,2,cpt,2,avg
+39,38,2,supply chain optimization,2,avg
+40,39,2,crystal reports,2,avg
+41,40,2,informatica,2,avg
+42,41,2,pl/sql,2,avg
+43,44,2,job coaching,2,avg
+44,45,2,university teaching,2,avg
+45,46,2,career counseling,2,avg
+46,47,2,carrier coaching,2,avg
+47,48,2,university relations,2,avg
+48,49,2,job fairs,2,avg
+49,50,2,carrier development,2,avg
+50,51,2,career skills,2,avg
+51,52,2,carrier management,2,avg
+52,53,2,immigration issues,2,avg
+53,54,2,u.s,2,avg
+54,55,2,corp-corp. technical staff management,2,avg
+55,56,2,job search strategies,2,avg
+56,57,2,procurement,2,avg
+57,58,2,uix,2,avg
+58,1,1,business process,1,avg

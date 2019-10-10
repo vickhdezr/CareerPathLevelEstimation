@@ -1,0 +1,19 @@
+,Cluster Label,Cluster freq.,Skill,Skill freq,Category
+0,7,56,sql,42,must
+1,12,42,javascript,42,avg
+2,15,40,asp.net,15,avg
+3,8,36,java,33,avg
+4,4,32,management,20,avg
+5,13,32,xml,32,avg
+6,87,30,html,29,avg
+7,11,28,software development,30,avg
+8,82,28,requirements analysis,23,avg
+9,62,25,agile methodologies,24,plus
+10,3,24,web development,16,plus
+11,9,23,scrum,23,plus
+12,93,22,c#,22,plus
+13,16,21,mysql,19,plus
+14,63,20,web services,20,plus
+15,83,20,sdlc,20,plus
+16,1,19,css,19,plus
+17,14,19,jquery,19,plus

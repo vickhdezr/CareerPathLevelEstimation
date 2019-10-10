@@ -1,0 +1,24 @@
+,Cluster Label,Cluster freq.,Skill,Skill freq,Category
+0,4,39,project management,38,must
+1,3,24,business analysis,25,avg
+2,20,22,requirements analysis,16,avg
+3,11,20,strategy,22,avg
+4,7,19,project planning,14,avg
+5,29,18,business process,14,avg
+6,36,17,change management,17,avg
+7,43,17,agile methodologies,17,avg
+8,62,17,program management,17,avg
+9,24,16,team leadership,17,avg
+10,13,15,vendor management,15,avg
+11,27,15,leadership,14,avg
+12,2,13,risk management,14,plus
+13,30,12,sdlc,12,plus
+14,37,12,consulting,12,plus
+15,67,12,integration,12,plus
+16,23,11,team management,10,plus
+17,28,11,business intelligence,12,plus
+18,124,11,project delivery,11,plus
+19,9,10,business development,10,plus
+20,16,10,management consulting,10,plus
+21,70,10,service management,6,plus
+22,125,10,prince2,10,plus
